@@ -4,4 +4,4 @@ He ar you can find our:
  * Bug Templates
  * PR Templates
  * Code Of Conduct
- * and out 
+ * And out profile README
